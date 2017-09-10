@@ -1,0 +1,10 @@
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\bin\Debug\TxtBirlestirme.exe.config
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\bin\Debug\TxtBirlestirme.exe
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\bin\Debug\TxtBirlestirme.pdb
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.csprojResolveAssemblyReference.cache
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.Form1.resources
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.Properties.Resources.resources
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.csproj.GenerateResource.Cache
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.exe
+C:\Users\Samed\Desktop\TxtBirlestirme\TxtBirlestirme\obj\Debug\TxtBirlestirme.pdb
